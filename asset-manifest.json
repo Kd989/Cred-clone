@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Cred-clone/static/css/main.969eb506.css",
+    "main.js": "/Cred-clone/static/js/main.bec7aab0.js",
+    "static/media/Gilroy-Thin.ttf": "/Cred-clone/static/media/Gilroy-Thin.28f856b7c4b3d473e0d1.ttf",
+    "static/media/Gilroy-Regular.ttf": "/Cred-clone/static/media/Gilroy-Regular.5b89a8df3b17dccdb73f.ttf",
+    "static/media/Gilroy-Medium.ttf": "/Cred-clone/static/media/Gilroy-Medium.1b4da6582f83f45ea039.ttf",
+    "static/media/Gilroy-SemiBold.ttf": "/Cred-clone/static/media/Gilroy-SemiBold.07b9100a72fe7d46d20a.ttf",
+    "static/media/Gilroy-Bold.ttf": "/Cred-clone/static/media/Gilroy-Bold.ca49f7658c4eaac78b6d.ttf",
+    "static/media/Gilroy-ExtraBold.ttf": "/Cred-clone/static/media/Gilroy-ExtraBold.59a66eb8c577778daaa5.ttf",
+    "static/media/new-right-2.png": "/Cred-clone/static/media/new-right-2.130b843e3fdad05d9a54.png",
+    "static/media/new-left-2.png": "/Cred-clone/static/media/new-left-2.59367447474e18e8cd83.png",
+    "static/media/new-center.png": "/Cred-clone/static/media/new-center.a3b8ae685a4a84a352a9.png",
+    "static/media/new-left-1.png": "/Cred-clone/static/media/new-left-1.2611bbb8bc1bf9542520.png",
+    "static/media/neopop-fold3.webp": "/Cred-clone/static/media/neopop-fold3.4a1b1dd293a43111b73b.webp",
+    "static/media/new-right-1.png": "/Cred-clone/static/media/new-right-1.64950642dd8c15a7f268.png",
+    "static/media/neopop-fold4.webp": "/Cred-clone/static/media/neopop-fold4.e098e3bf9f18731f2859.webp",
+    "static/media/neopop-fold2.webp": "/Cred-clone/static/media/neopop-fold2.18f9be3de181375edcd5.webp",
+    "static/media/neopop-fold1.webp": "/Cred-clone/static/media/neopop-fold1.69d886cca44ddf379abe.webp",
+    "index.html": "/Cred-clone/index.html",
+    "main.969eb506.css.map": "/Cred-clone/static/css/main.969eb506.css.map",
+    "main.bec7aab0.js.map": "/Cred-clone/static/js/main.bec7aab0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.969eb506.css",
+    "static/js/main.bec7aab0.js"
+  ]
+}
